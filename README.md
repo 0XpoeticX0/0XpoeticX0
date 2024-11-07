@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Daffodil Interna
 
 ## GitHub Stats
 
-![Ashfikur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashfikurrahman&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Ashfikur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0XpoeticX0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## Connect with Me
 
