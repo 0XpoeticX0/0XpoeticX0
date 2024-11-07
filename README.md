@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Daffodil Interna
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ashfikurrahman)
-- [Twitter](https://twitter.com/ashfikur_rahman)
+- [LinkedIn]()
+- [Twitter]()
 
 Thanks for visiting! 🚀
