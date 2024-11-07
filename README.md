@@ -25,6 +25,12 @@ Welcome to my GitHub profile! I'm a Computer Science student at Daffodil Interna
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XpoeticX0&layout=compact&theme=radical&hide_title=true" width="48%" />
 </div>
 
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0XpoeticX0&theme=dark&hide_border=false" />
+</div>
+
+
 
 ## Connect with Me
 
