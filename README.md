@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Daffodil Interna
 ![Dart](https://img.shields.io/badge/Dart-%230175C5?style=flat&logo=dart&logoColor=white)
 
 # My GitHub Stats:
-![Ashfikur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0XpoeticX0&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Ashfikur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0XpoeticX0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0XpoeticX0&layout=compact&theme=radical)
