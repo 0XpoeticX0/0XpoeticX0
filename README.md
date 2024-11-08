@@ -18,18 +18,14 @@ Welcome to my GitHub profile! I'm a Computer Science student at Daffodil Interna
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C5?style=flat&logo=dart&logoColor=white)
 
-# My GitHub Stats:
+## My GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=0XpoeticX0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XpoeticX0&layout=compact&theme=radical&hide_title=true" width="48%" />
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0XpoeticX0&theme=dark&hide_border=false" />
-</div>
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=0XpoeticX0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XpoeticX0&layout=compact&theme=radical&hide_title=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 
 ## Connect with Me
