@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Daffodil Interna
 
 ## Connect with Me
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/md-ashfikur-rahman-mahi-3b3067295/)
 - [Twitter]()
 
 Thanks for visiting! 🚀
