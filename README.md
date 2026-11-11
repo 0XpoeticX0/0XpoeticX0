@@ -30,7 +30,6 @@
 | 📱 **[SmartQueue](https://github.com/0XpoeticX0/Doctor-App-with-Flutter)** | Clinic appointment app replacing physical queues with live token tracking, doctor controls, and SSLCommerz payments. | `Flutter` `Riverpod` `Supabase` `PostgreSQL` | [GitHub](https://github.com/0XpoeticX0/Doctor-App-with-Flutter) · [Demo](https://ashfikur.netlify.app/#apps) |
 | 📦 **[AI Context Packer](https://github.com/0XpoeticX0/ai-context-packer)** | Open-source CLI/GUI developer tool that traverses multi-directory codebases and formats LLM context with secret protection. | `Python` `CLI` `Tkinter` `File I/O` | [GitHub](https://github.com/0XpoeticX0/ai-context-packer) |
 | ⚙️ **Auto_Upload Pipeline** | Autonomous vertical video generation and distribution pipeline with loudness normalization (-18 LUFS) and cron publishing. | `Python` `FFmpeg` `Edge-TTS` `APIs` | [Overview](https://ashfikur.netlify.app/#video-system) |
-| 🎮 **[Tether](https://play2w.netlify.app/)** | Real-time two-player cooperative web puzzle game across 50 interconnected levels. | `JavaScript` `WebSockets` `HTML5 Canvas` | [Live Game](https://play2w.netlify.app/) |
 
 ---
 
@@ -58,8 +57,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0XpoeticX0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XpoeticX0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=0XpoeticX0&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
