@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://ashfikur.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ashfikur.netlify.app-006A4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ashfikur.netlify.app"><img src="https://img.shields.io/badge/Portfolio-006A4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/md-ashfikur-rahman-mahi-3b3067295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mahifwk@gmail.com"><img src="https://img.shields.io/badge/Email-mahifwk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mahifwk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
