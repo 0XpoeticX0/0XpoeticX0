@@ -1,37 +1,72 @@
-# Hi, I'm Ashfikur Rahman 👋
+<h1 align="center">Hi there, I'm Md. Ashfikur Rahman Mahi 👋</h1>
+<p align="center">
+  <b>Junior Software Engineer | Flutter & Mobile Development | Python Systems & Automation</b><br>
+  Dhaka, Bangladesh · CSE @ Daffodil International University (Expected 2027)
+</p>
 
-Welcome to my GitHub profile! I'm a Computer Science student at Daffodil International University. I love programming and I'm always looking to learn new things and take on exciting challenges.
+<p align="center">
+  <a href="https://ashfikur.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ashfikur.netlify.app-006A4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-ashfikur-rahman-mahi-3b3067295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mahifwk@gmail.com"><img src="https://img.shields.io/badge/Email-mahifwk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## About Me
+---
 
-- 🔭 Currently working on personal projects and enhancing my skills.
-- 🌱 Learning more about software development, data structures, and algorithms.
-- 💬 Ask me about Java, Python, C, C++, and Dart!
-- 📫 How to reach me: [mahi2305101618@diu.edu.bd](mailto:mahi2305101618@diu.edu.bd)
-- ⚡ Fun fact: I enjoy solving complex problems and learning new programming languages.
+### 👨‍💻 About Me
 
-## Technologies I Work With
+* 🎓 **Undergraduate:** Computer Science & Engineering at **Daffodil International University (DIU)**.
+* 🏆 **Academic Foundation:** Phitron alumnus with a **4.0 CGPA** in fundamental computer science coursework.
+* ☁️ **Cloud Certified:** **AWS Academy Graduate:** Cloud Foundations (20 hrs, Credly verified).
+* 📱 **Mobile Engineering:** Architecting role-based mobile applications in **Flutter** with Riverpod, Supabase Realtime, and payment integrations.
+* ⚙️ **Automation & Tooling:** Developing open-source developer productivity tools and automated media processing engines with **Python** and **FFmpeg**.
+* 💬 Ask me about: **Flutter, Dart, Python, Supabase, and systems automation**.
 
-![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%2300BFFF?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C5?style=flat&logo=dart&logoColor=white)
+---
 
-## My GitHub Stats
+### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0XpoeticX0" />
-    </td>
-  </tr>
-</table>
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| 📱 **[SmartQueue](https://github.com/0XpoeticX0/Doctor-App-with-Flutter)** | Clinic appointment app replacing physical queues with live token tracking, doctor controls, and SSLCommerz payments. | `Flutter` `Riverpod` `Supabase` `PostgreSQL` | [GitHub](https://github.com/0XpoeticX0/Doctor-App-with-Flutter) · [Demo](https://ashfikur.netlify.app/#apps) |
+| 📦 **[AI Context Packer](https://github.com/0XpoeticX0/ai-context-packer)** | Open-source CLI/GUI developer tool that traverses multi-directory codebases and formats LLM context with secret protection. | `Python` `CLI` `Tkinter` `File I/O` | [GitHub](https://github.com/0XpoeticX0/ai-context-packer) |
+| ⚙️ **Auto_Upload Pipeline** | Autonomous vertical video generation and distribution pipeline with loudness normalization (-18 LUFS) and cron publishing. | `Python` `FFmpeg` `Edge-TTS` `APIs` | [Overview](https://ashfikur.netlify.app/#video-system) |
+| 🎮 **[Tether](https://play2w.netlify.app/)** | Real-time two-player cooperative web puzzle game across 50 interconnected levels. | `JavaScript` `WebSockets` `HTML5 Canvas` | [Live Game](https://play2w.netlify.app/) |
 
+---
 
-## Connect with Me
+### 🛠️ Languages & Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/md-ashfikur-rahman-mahi-3b3067295/)
-- [Twitter]()
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+</p>
 
-Thanks for visiting! 🚀
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0XpoeticX0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XpoeticX0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+* 🌐 **Portfolio Website:** [ashfikur.netlify.app](https://ashfikur.netlify.app)
+* 💼 **LinkedIn:** [linkedin.com/in/md-ashfikur-rahman-mahi-3b3067295](https://www.linkedin.com/in/md-ashfikur-rahman-mahi-3b3067295/)
+* 📧 **Primary Email:** [mahifwk@gmail.com](mailto:mahifwk@gmail.com)
+* 🎓 **Academic Email:** [mahi2305101618@diu.edu.bd](mailto:mahi2305101618@diu.edu.bd)
